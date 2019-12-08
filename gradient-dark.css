@@ -47,6 +47,7 @@ color:#e7e4eb;
 .hljs-type
 
 {
+
   color:#17fc95;
 }
 
@@ -62,6 +63,15 @@ color:#e7e4eb;
 {
   color: #38c0ff;
 }
+
+
+.hljs-attribute,
+.hljs-addition,
+.hljs-bullet
+{
+  color:#E7FF9F;
+}
+
 .hljs-variable,
 .hljs-template-variable
 
@@ -78,6 +88,7 @@ color:#e7e4eb;
 .hljs-function
 {
   color: #FFC800;
+
 }
 
 .hljs-selector-pseudo,
@@ -86,6 +97,7 @@ color:#e7e4eb;
 .hljs-literal
 {
   color:#FF9E44;
+
 }
 
 .hljs-emphasis,
