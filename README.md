@@ -1,16 +1,16 @@
 # <b>Gradient Dark Theme</b>
 
-<i>Syntax highlighting for highlight.js</i>
+<i>Syntax highlighting</i>
 
 ## <b>CSS</b>
-<img src="img/GradientDarkCodeChunk.png" width=60%>
+<img src="highlight-js/img/GradientDarkCodeChunk.png" width=60%>
 
 ## <b>JavaScript</b>
-<img src="img/GradientDarkCodeChunkJavaScript.png" width=60%>
+<img src="highlight-js/img/GradientDarkCodeChunkJavaScript.png" width=60%>
 
 ## <b> R Markdown </b>
-<img src="img/GradientDarkCodeR.png" width=50%>
+<img src="highlight-js/img/GradientDarkCodeR.png" width=50%>
 
 ## <b> TOML </b>
-<img src="img/GradientDarkCodeTOML.png" width=45%>
+<img src="highlight-js/img/GradientDarkCodeTOML.png" width=45%>
 
