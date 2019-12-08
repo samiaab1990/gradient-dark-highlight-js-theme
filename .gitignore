@@ -2,8 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-~/gradient-bluegreen.css
-~/highlight-bluegreen.html
-~/README.ru.md
-~/Highlight-js.Rproj
-~/LICENSE
+gradient-bluegreen.css highlight-bluegreen.html Highlight-js.Rproj LICENSE README.ru.md CHANGES.md
+highlight.pack.js
