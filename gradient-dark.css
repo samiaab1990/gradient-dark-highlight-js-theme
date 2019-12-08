@@ -4,7 +4,7 @@ Gradient Dark (c) Samia Ali <samiaab1990@gmail.com>
 
 */
 
-.hljs 
+.hljs,
 {
 display: block;
 overflow-x: auto;
@@ -12,6 +12,10 @@ padding: 0.5em;
 background: rgb(80,31,122);
 background: linear-gradient(166deg, rgba(80,31,122,1) 0%, rgba(40,32,179,1) 80%);
 color:#e7e4eb;
+}
+
+.hljs-subtr{
+  color:#e7e4eb;
 }
 
 .hljs-doctag,
@@ -93,7 +97,6 @@ color:#e7e4eb;
 
 .hljs-selector-pseudo,
 .hljs-deletion,
-.hljs-substr,
 .hljs-literal
 {
   color:#FF9E44;
