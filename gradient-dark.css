@@ -9,10 +9,8 @@ Gradient Dark (c) Samia Ali <samiaab1990@gmail.com>
 display: block;
 overflow-x: auto;
 padding: 0.5em;
-font: normal 10pt Consolas, Monaco, monospace; 
-/*I only put the font for previewing purposes. When using for highlight.js or other editors, please remove font: from CSS*/
 background: rgb(80,31,122);
-background: linear-gradient(166deg, rgba(80,31,122,1) 0%, rgba(40,32,179,1) 80%);
+background-image: linear-gradient(166deg, rgba(80,31,122,1) 0%, rgba(40,32,179,1) 80%);
 color:#e7e4eb;
 }
 
